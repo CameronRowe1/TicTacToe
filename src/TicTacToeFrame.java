@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Administrator
+ * @version Sep 13, 3pm
+ */
 public class TicTacToeFrame {
 	
 	private char whoseTurn = 'X''
